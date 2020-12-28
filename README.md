@@ -1,3 +1,3 @@
-#### Values JS
+#### Live version
 
-[values.js](https://github.com/noeldelgado/values.js)
+[https://mocan-react-color-generator-app.netlify.app/](https://mocan-react-color-generator-app.netlify.app/)
